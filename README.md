@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sanjay-250502
-- 👀 I’m interested in MERN Stack
+- 👀 I’m interested in MERN, Frontend
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me sanjayramachandran2002@gmail.com
 
