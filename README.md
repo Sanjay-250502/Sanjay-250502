@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjay RJ</h1>
-<h3 align="center">A passionate fullstack developer(MERN) from Tamilnadu</h3>
+<h3 align="center">A passionate Front-End Developer from Tamilnadu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay-250502&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay-250502" /> </p>
 
