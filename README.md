@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjay-250502" alt="sanjay-250502" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I completed **Front-End Development** in **KARKA SOFTWARE ACADEMY**
 
-- 💬 Ask me about **HTML,CSS,BOOTSTRAP,DOM,Javascript,**
+- 💬 Ask me about **HTML,CSS,BOOTSTRAP,DOM,Javascript,React.JS**
 
 - 📫 How to reach me **sanjayramachandran2002@gmail.com**
 
